@@ -1,0 +1,21 @@
+{
+    "name": "epatriote_smart_benin",
+    "version": "0.0.1",
+    "description": "Select Benin's location smartly from flutter.",
+    "main": "index.js",
+    "authors": {
+        "name": "Justin Y. Dah-kenangnon",
+        "email": "dah.kenangnon@gmail.com"
+    },
+    "repository": "https://github.com/ePatrioteCreative/epatriote_smart_benin",
+    "scripts": {
+        "dev": "vuepress dev src",
+        "build": "vuepress build src",
+        "up": "ncu -u && yarn install"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@vuepress/plugin-nprogress": "^1.8.2",
+        "vuepress": "^1.8.2"
+    }
+}
