@@ -1,7 +1,7 @@
 # epatriote_smart_benin :rocket: ![BeninFlag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/110px-Flag_of_Benin.svg.png)
 
 
-Select Benin's location smartly from flutter.
+Select Benin's location (Department, city or distreet) smartly from flutter.
 This allow you dealing these scenario:
 
 1. Widget to select a benenese department

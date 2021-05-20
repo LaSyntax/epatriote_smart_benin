@@ -1,7 +1,7 @@
 {
     "name": "epatriote_smart_benin",
     "version": "0.0.1",
-    "description": "Select Benin's location smartly from flutter.",
+    "description": "Select Benin's location (Department, city or distreet) smartly from flutter.",
     "main": "index.js",
     "authors": {
         "name": "Justin Y. Dah-kenangnon",

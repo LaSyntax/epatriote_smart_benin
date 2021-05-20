@@ -1,4 +1,4 @@
-# epatriote_smart_benin :rocket: ![BeninFlag](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/110px-Flag_of_Benin.svg.png)
+# epatriote_smart_benin 
 
 
 Select Benin's location smartly from flutter.
@@ -14,13 +14,6 @@ All these widget will be available from the master widget EPatrioteSmartBenin
 
 
 [Benin](https://fr.wikipedia.org/wiki/B%C3%A9nin) is a Western Africa's country.
-
-
-## Documentation
-
-Documentation is  from: [https://ePatrioteCreative.github.io/epatriote_smart_benin/](https://ePatrioteCreative.github.io/epatriote_smart_benin/)
-
-
 
 
 
