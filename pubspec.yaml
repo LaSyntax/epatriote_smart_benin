@@ -1,6 +1,6 @@
 name: epatriote_smart_benin
 description: Select Benin's location (Department, city or distreet) smartly from flutter.
-version: 0.0.1-dev
+version: 0.0.2-dev
 homepage: https://github.com/ePatrioteCreative/epatriote_smart_benin
 repository: https://github.com/ePatrioteCreative/epatriote_smart_benin.git
 
